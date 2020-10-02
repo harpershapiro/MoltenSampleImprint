@@ -13,6 +13,7 @@
 /backend/uploads/images/*
 /backend/uploads/packs/*
 /backend/data
+/backend/config.js
 
 # misc
 .DS_Store
